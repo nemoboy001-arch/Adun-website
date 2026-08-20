@@ -167,7 +167,7 @@ const INITIAL_MENU: MenuItem[] = [
     price: 1000,
     category: 'sides',
     spiceLevel: 'mild',
-    image: 'https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&w=800&q=80'
   },
   {
     id: 'plantain-dodo',
