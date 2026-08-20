@@ -59,7 +59,7 @@ const INITIAL_MENU: MenuItem[] = [
     price: 5000,
     category: 'swallow-soups',
     spiceLevel: 'medium',
-    image: 'https://images.unsplash.com/photo-1627308595229-7830a5c91f9f?auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=800&q=80'
   },
   {
     id: 'amala-ewedu',
@@ -77,7 +77,7 @@ const INITIAL_MENU: MenuItem[] = [
     price: 4000,
     category: 'swallow-soups',
     spiceLevel: 'medium',
-    image: 'https://images.unsplash.com/photo-1627308595229-7830a5c91f9f?auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=800&q=80'
   },
   {
     id: 'semo-ogbono',
@@ -86,7 +86,7 @@ const INITIAL_MENU: MenuItem[] = [
     price: 4200,
     category: 'swallow-soups',
     spiceLevel: 'medium',
-    image: 'https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=800&q=80'
   },
   {
     id: 'efo-riro',
@@ -104,7 +104,7 @@ const INITIAL_MENU: MenuItem[] = [
     price: 3000,
     category: 'rice',
     spiceLevel: 'medium',
-    image: 'https://images.unsplash.com/photo-1604329760661-e71dc83f8f26?auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1604152135912-04a022e23696?auto=format&fit=crop&w=800&q=80'
   },
   {
     id: 'fried-rice',

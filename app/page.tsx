@@ -12,7 +12,7 @@ export default function Home() {
       price: '₦3,000',
       description: 'Smoky, spiced, and simmered to perfection over an open flame — the dish that started it all.',
       spice: '🌶️🌶️ Medium',
-      image: 'https://images.unsplash.com/photo-1604329760661-e71dc83f8f26?auto=format&fit=crop&w=800&q=80',
+      image: 'https://images.unsplash.com/photo-1604152135912-04a022e23696?auto=format&fit=crop&w=800&q=80',
     },
     {
       id: 'pounded-yam-egusi',
@@ -20,7 +20,7 @@ export default function Home() {
       price: '₦5,000',
       description: 'Hand-pounded the way it\'s always been done. Smooth, stretchy, and paired perfectly with egusi.',
       spice: '🌶️🌶️ Medium',
-      image: 'https://images.unsplash.com/photo-1627308595229-7830a5c91f9f?auto=format&fit=crop&w=800&q=80',
+      image: 'https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=800&q=80',
     },
     {
       id: 'suya-platter',
