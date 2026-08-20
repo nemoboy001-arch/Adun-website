@@ -68,7 +68,7 @@ const INITIAL_MENU: MenuItem[] = [
     price: 4500,
     category: 'swallow-soups',
     spiceLevel: 'medium',
-    image: 'https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=800&q=80'
   },
   {
     id: 'eba-egusi',
@@ -77,7 +77,7 @@ const INITIAL_MENU: MenuItem[] = [
     price: 4000,
     category: 'swallow-soups',
     spiceLevel: 'medium',
-    image: 'https://images.unsplash.com/photo-1604329760661-e71dc83f8f26?auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1627308595229-7830a5c91f9f?auto=format&fit=crop&w=800&q=80'
   },
   {
     id: 'semo-ogbono',
@@ -86,7 +86,7 @@ const INITIAL_MENU: MenuItem[] = [
     price: 4200,
     category: 'swallow-soups',
     spiceLevel: 'medium',
-    image: 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80'
   },
   {
     id: 'efo-riro',
@@ -95,7 +95,7 @@ const INITIAL_MENU: MenuItem[] = [
     price: 3500,
     category: 'swallow-soups',
     spiceLevel: 'hot',
-    image: 'https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1649182333068-ad2c4d62b9a7?auto=format&fit=crop&w=800&q=80'
   },
   {
     id: 'jollof-rice',
@@ -104,7 +104,7 @@ const INITIAL_MENU: MenuItem[] = [
     price: 3000,
     category: 'rice',
     spiceLevel: 'medium',
-    image: 'https://images.unsplash.com/photo-1627308595229-7830a5c91f9f?auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1604329760661-e71dc83f8f26?auto=format&fit=crop&w=800&q=80'
   },
   {
     id: 'fried-rice',
@@ -131,7 +131,7 @@ const INITIAL_MENU: MenuItem[] = [
     price: 5500,
     category: 'grills-proteins',
     spiceLevel: 'fiery',
-    image: 'https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80'
   },
   {
     id: 'croaker-fish',
@@ -140,7 +140,7 @@ const INITIAL_MENU: MenuItem[] = [
     price: 6000,
     category: 'grills-proteins',
     spiceLevel: 'medium',
-    image: 'https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1580476214401-4ecd1ad06060?auto=format&fit=crop&w=800&q=80'
   },
   {
     id: 'meat-egg-stew',
@@ -185,7 +185,7 @@ const INITIAL_MENU: MenuItem[] = [
     price: 800,
     category: 'drinks',
     spiceLevel: 'none',
-    image: 'https://images.unsplash.com/photo-1497534446932-c925b458314e?auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1595981267035-7b04ca84a82d?auto=format&fit=crop&w=800&q=80'
   },
   {
     id: 'chapman',
