@@ -1,0 +1,152 @@
+{
+  "menu": [
+    {
+      "id": "pounded-yam-egusi",
+      "name": "Pounded Yam & Egusi",
+      "description": "Hand-pounded the way it's always been done. Smooth, stretchy, and paired perfectly with our rich melon-seed soup. Comfort food, no compromises.",
+      "price": 5000,
+      "category": "swallow-soups",
+      "spiceLevel": "medium",
+      "image": "https://images.unsplash.com/photo-1627308595229-7830a5c91f9f?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "amala-ewedu",
+      "name": "Amala & Ewedu",
+      "description": "Hand-crafted the way it's always been done. Silky amala meets our signature ewedu — smooth, earthy, and deeply satisfying. Comfort food, no compromises.",
+      "price": 4500,
+      "category": "swallow-soups",
+      "spiceLevel": "medium",
+      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "eba-egusi",
+      "name": "Eba & Egusi",
+      "description": "Made the way it's always been done. Soft, pliable eba paired with hearty melon-seed soup loaded with assorted meat. Comfort food, no compromises.",
+      "price": 4000,
+      "category": "swallow-soups",
+      "spiceLevel": "medium",
+      "image": "https://images.unsplash.com/photo-1604329760661-e71dc83f8f26?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "semo-ogbono",
+      "name": "Semo & Ogbono",
+      "description": "Prepared the way it's always been done. Smooth semo with our thick, savory ogbono soup. Comfort food, no compromises.",
+      "price": 4200,
+      "category": "swallow-soups",
+      "spiceLevel": "medium",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "efo-riro",
+      "name": "Efo Riro",
+      "description": "Bold, peppery, and loaded with assorted meat and fish. A rich vegetable stew simmered layer by layer — the dish jollof-lovers secretly crave just as much.",
+      "price": 3500,
+      "category": "swallow-soups",
+      "spiceLevel": "hot",
+      "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "jollof-rice",
+      "name": "Jollof Rice",
+      "description": "Smoky, spiced, and simmered to perfection over an open flame — the dish that started it all.",
+      "price": 3000,
+      "category": "rice",
+      "spiceLevel": "medium",
+      "image": "https://images.unsplash.com/photo-1627308595229-7830a5c91f9f?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "fried-rice",
+      "name": "Fried Rice",
+      "description": "Buttery, colorful, and packed with fresh vegetables — the crowd-pleaser on every table.",
+      "price": 3000,
+      "category": "rice",
+      "spiceLevel": "mild",
+      "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "ofada-rice-ayamase",
+      "name": "Ofada Rice & Ayamase",
+      "description": "Earthy, robust rice paired with our fiery green pepper sauce — a bold classic for the adventurous eater.",
+      "price": 4500,
+      "category": "rice",
+      "spiceLevel": "hot",
+      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "suya-platter",
+      "name": "Suya Platter",
+      "description": "Charcoal-grilled, spice-crusted, and fiery. Smoky beef coated in our signature suya spice — not for the faint of heart.",
+      "price": 5500,
+      "category": "grills-proteins",
+      "spiceLevel": "fiery",
+      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "croaker-fish",
+      "name": "Croaker Fish",
+      "description": "Fresh-grilled, tender, and seasoned deep to the bone — simple, clean, and packed with flavor.",
+      "price": 6000,
+      "category": "grills-proteins",
+      "spiceLevel": "medium",
+      "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "meat-egg-stew",
+      "name": "Meat & Egg in Stew",
+      "description": "Tender meat and boiled egg swimming in a rich, spicy tomato stew — tasty, delicious, and deeply satisfying.",
+      "price": 2500,
+      "category": "grills-proteins",
+      "spiceLevel": "hot",
+      "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "yamarita-fish-sauce",
+      "name": "Yamarita + Fish Sauce",
+      "description": "Crispy fried plantain-yam fritters served with a savory fish sauce — golden, crunchy, and impossible to stop eating.",
+      "price": 3500,
+      "category": "grills-proteins",
+      "spiceLevel": "mild",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "moin-moin",
+      "name": "Moin Moin",
+      "description": "Steamed bean pudding, soft and savory — the perfect companion to any main.",
+      "price": 1000,
+      "category": "sides",
+      "spiceLevel": "mild",
+      "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "plantain-dodo",
+      "name": "Plantain (Dodo)",
+      "description": "Sweet, caramelized, pan-fried to golden perfection — the side that steals the show.",
+      "price": 1200,
+      "category": "sides",
+      "spiceLevel": "mild",
+      "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "zobo",
+      "name": "Zobo",
+      "description": "Fresh hibiscus, ginger, and a touch of spice — our zobo is cold, bold, and refreshing.",
+      "price": 800,
+      "category": "drinks",
+      "spiceLevel": "none",
+      "image": "https://images.unsplash.com/photo-1497534446932-c925b458314e?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "chapman",
+      "name": "Chapman",
+      "description": "Citrus, grenadine, and a splash of soda — bright, fruity, and endlessly drinkable.",
+      "price": 1500,
+      "category": "drinks",
+      "spiceLevel": "none",
+      "image": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&w=800&q=80"
+    }
+  ],
+  "orders": [],
+  "settings": {
+    "adminEnabled": false
+  }
+}
