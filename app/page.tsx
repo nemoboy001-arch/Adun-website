@@ -12,7 +12,7 @@ export default function Home() {
       price: '₦3,000',
       description: 'Smoky, spiced, and simmered to perfection over an open flame — the dish that started it all.',
       spice: '🌶️🌶️ Medium',
-      image: 'https://images.unsplash.com/photo-1604152135912-04a022e23696?auto=format&fit=crop&w=800&q=80',
+      image: '/images/jollof-rice.jfif',
     },
     {
       id: 'pounded-yam-egusi',
@@ -20,7 +20,7 @@ export default function Home() {
       price: '₦5,000',
       description: 'Hand-pounded the way it\'s always been done. Smooth, stretchy, and paired perfectly with egusi.',
       spice: '🌶️🌶️ Medium',
-      image: 'https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=800&q=80',
+      image: '/images/pounded-yam-egusi.jfif',
     },
     {
       id: 'suya-platter',
@@ -28,7 +28,7 @@ export default function Home() {
       price: '₦5,500',
       description: 'Charcoal-grilled, spice-crusted, and fiery. Smoky beef coated in our signature suya spice.',
       spice: '🔥 Fiery',
-      image: 'https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80',
+      image: '/images/suya-platter.jfif',
     },
   ];
 

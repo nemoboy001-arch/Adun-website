@@ -7,7 +7,7 @@
       "price": 5000,
       "category": "swallow-soups",
       "spiceLevel": "medium",
-      "image": "https://images.unsplash.com/photo-1627308595229-7830a5c91f9f?auto=format&fit=crop&w=800&q=80"
+      "image": "/images/pounded-yam-egusi.jfif"
     },
     {
       "id": "amala-ewedu",
@@ -16,7 +16,7 @@
       "price": 4500,
       "category": "swallow-soups",
       "spiceLevel": "medium",
-      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80"
+      "image": "/images/amala-ewedu.jfif"
     },
     {
       "id": "eba-egusi",
@@ -25,7 +25,7 @@
       "price": 4000,
       "category": "swallow-soups",
       "spiceLevel": "medium",
-      "image": "https://images.unsplash.com/photo-1604329760661-e71dc83f8f26?auto=format&fit=crop&w=800&q=80"
+      "image": "/images/eba-egusi.jfif"
     },
     {
       "id": "semo-ogbono",
@@ -52,7 +52,7 @@
       "price": 3000,
       "category": "rice",
       "spiceLevel": "medium",
-      "image": "https://images.unsplash.com/photo-1627308595229-7830a5c91f9f?auto=format&fit=crop&w=800&q=80"
+      "image": "/images/jollof-rice.jfif"
     },
     {
       "id": "fried-rice",
@@ -61,7 +61,7 @@
       "price": 3000,
       "category": "rice",
       "spiceLevel": "mild",
-      "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80"
+      "image": "/images/fried-rice.jfif"
     },
     {
       "id": "ofada-rice-ayamase",
@@ -70,7 +70,7 @@
       "price": 4500,
       "category": "rice",
       "spiceLevel": "hot",
-      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80"
+      "image": "/images/ofada-rice-ayamase.jfif"
     },
     {
       "id": "suya-platter",
@@ -79,7 +79,7 @@
       "price": 5500,
       "category": "grills-proteins",
       "spiceLevel": "fiery",
-      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80"
+      "image": "/images/suya-platter.jfif"
     },
     {
       "id": "croaker-fish",
@@ -97,7 +97,7 @@
       "price": 2500,
       "category": "grills-proteins",
       "spiceLevel": "hot",
-      "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=800&q=80"
+      "image": "/images/meat-egg-stew.jfif"
     },
     {
       "id": "yamarita-fish-sauce",
@@ -106,7 +106,7 @@
       "price": 3500,
       "category": "grills-proteins",
       "spiceLevel": "mild",
-      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80"
+      "image": "/images/yamarita-fish-sauce.jfif"
     },
     {
       "id": "moin-moin",
@@ -115,7 +115,7 @@
       "price": 1000,
       "category": "sides",
       "spiceLevel": "mild",
-      "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80"
+      "image": "/images/moin-moin.jfif"
     },
     {
       "id": "plantain-dodo",

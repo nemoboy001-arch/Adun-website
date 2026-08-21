@@ -59,7 +59,7 @@ const INITIAL_MENU: MenuItem[] = [
     price: 5000,
     category: 'swallow-soups',
     spiceLevel: 'medium',
-    image: 'https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=800&q=80'
+    image: '/images/pounded-yam-egusi.jfif'
   },
   {
     id: 'amala-ewedu',
@@ -68,7 +68,7 @@ const INITIAL_MENU: MenuItem[] = [
     price: 4500,
     category: 'swallow-soups',
     spiceLevel: 'medium',
-    image: 'https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=800&q=80'
+    image: '/images/amala-ewedu.jfif'
   },
   {
     id: 'eba-egusi',
@@ -77,7 +77,7 @@ const INITIAL_MENU: MenuItem[] = [
     price: 4000,
     category: 'swallow-soups',
     spiceLevel: 'medium',
-    image: 'https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=800&q=80'
+    image: '/images/eba-egusi.jfif'
   },
   {
     id: 'semo-ogbono',
@@ -104,7 +104,7 @@ const INITIAL_MENU: MenuItem[] = [
     price: 3000,
     category: 'rice',
     spiceLevel: 'medium',
-    image: 'https://images.unsplash.com/photo-1604152135912-04a022e23696?auto=format&fit=crop&w=800&q=80'
+    image: '/images/jollof-rice.jfif'
   },
   {
     id: 'fried-rice',
@@ -113,7 +113,7 @@ const INITIAL_MENU: MenuItem[] = [
     price: 3000,
     category: 'rice',
     spiceLevel: 'mild',
-    image: 'https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80'
+    image: '/images/fried-rice.jfif'
   },
   {
     id: 'ofada-rice-ayamase',
@@ -122,7 +122,7 @@ const INITIAL_MENU: MenuItem[] = [
     price: 4500,
     category: 'rice',
     spiceLevel: 'hot',
-    image: 'https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80'
+    image: '/images/ofada-rice-ayamase.jfif'
   },
   {
     id: 'suya-platter',
@@ -131,7 +131,7 @@ const INITIAL_MENU: MenuItem[] = [
     price: 5500,
     category: 'grills-proteins',
     spiceLevel: 'fiery',
-    image: 'https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80'
+    image: '/images/suya-platter.jfif'
   },
   {
     id: 'croaker-fish',
@@ -149,7 +149,7 @@ const INITIAL_MENU: MenuItem[] = [
     price: 2500,
     category: 'grills-proteins',
     spiceLevel: 'hot',
-    image: 'https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=800&q=80'
+    image: '/images/meat-egg-stew.jfif'
   },
   {
     id: 'yamarita-fish-sauce',
@@ -158,7 +158,7 @@ const INITIAL_MENU: MenuItem[] = [
     price: 3500,
     category: 'grills-proteins',
     spiceLevel: 'mild',
-    image: 'https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80'
+    image: '/images/yamarita-fish-sauce.jfif'
   },
   {
     id: 'moin-moin',
@@ -167,7 +167,7 @@ const INITIAL_MENU: MenuItem[] = [
     price: 1000,
     category: 'sides',
     spiceLevel: 'mild',
-    image: 'https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&w=800&q=80'
+    image: '/images/moin-moin.jfif'
   },
   {
     id: 'plantain-dodo',
