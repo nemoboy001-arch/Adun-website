@@ -86,7 +86,7 @@ const INITIAL_MENU: MenuItem[] = [
     price: 4200,
     category: 'swallow-soups',
     spiceLevel: 'medium',
-    image: 'https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=800&q=80'
+    image: '/images/semo-ogbono.jpg'
   },
   {
     id: 'efo-riro',
@@ -95,7 +95,7 @@ const INITIAL_MENU: MenuItem[] = [
     price: 3500,
     category: 'swallow-soups',
     spiceLevel: 'hot',
-    image: 'https://images.unsplash.com/photo-1649182333068-ad2c4d62b9a7?auto=format&fit=crop&w=800&q=80'
+    image: '/images/efo-riro.jpg'
   },
   {
     id: 'jollof-rice',
@@ -140,7 +140,7 @@ const INITIAL_MENU: MenuItem[] = [
     price: 6000,
     category: 'grills-proteins',
     spiceLevel: 'medium',
-    image: 'https://images.unsplash.com/photo-1580476214401-4ecd1ad06060?auto=format&fit=crop&w=800&q=80'
+    image: '/images/croaker-fish.jpg'
   },
   {
     id: 'meat-egg-stew',
@@ -176,7 +176,7 @@ const INITIAL_MENU: MenuItem[] = [
     price: 1200,
     category: 'sides',
     spiceLevel: 'mild',
-    image: 'https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=800&q=80'
+    image: '/images/plantain-dodo.jpg'
   },
   {
     id: 'zobo',
@@ -185,7 +185,7 @@ const INITIAL_MENU: MenuItem[] = [
     price: 800,
     category: 'drinks',
     spiceLevel: 'none',
-    image: 'https://images.unsplash.com/photo-1595981267035-7b04ca84a82d?auto=format&fit=crop&w=800&q=80'
+    image: '/images/zobo.jpg'
   },
   {
     id: 'chapman',
@@ -194,7 +194,7 @@ const INITIAL_MENU: MenuItem[] = [
     price: 1500,
     category: 'drinks',
     spiceLevel: 'none',
-    image: 'https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&w=800&q=80'
+    image: '/images/chapman.jpg'
   }
 ];
 
